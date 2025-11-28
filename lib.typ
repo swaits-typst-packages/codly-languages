@@ -12,22 +12,22 @@
 // ```
 #let codly-languages = {
   // helper function which takes an image filename and creates an icon
-  let __icon(image-filename) = {
+  let __icon(image-filename) = pdf.artifact({
     box(
       image("icons/" + image-filename, height: 0.9em),
       baseline: 0.05em,
       inset: 0pt,
       outset: 0pt,
     ) + h(0.3em)
-  }
+  })
 
-  let __emoji(emoji) = {
+  let __emoji(emoji) = pdf.artifact({
     box(
       emoji,
       inset: 0pt,
       outset: 0pt,
     ) + h(0.3em)
-  }
+  })
 
   // configurations for languages
   (
