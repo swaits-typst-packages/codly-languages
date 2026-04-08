@@ -685,7 +685,7 @@
     opml:                 (name: "XML",               color: rgb("#005fad"), icon: __icon("xml.svg")), //Devicons
     svg:                  (name: "SVG",               color: rgb("#ffb13b"), icon: __icon("svg.svg")), //VSCode Icons
     //WASM
-    wasm:                 (name: "WASM",              color: rgb("#654ff0"), icon: __icon("wasm.svg")), //Devicons
+    wasm:                 (name: "Wasm",              color: rgb("#654ff0"), icon: __icon("wasm.svg")), //Devicons
     //YAML
     yaml:                 (name: "YAML",              color: rgb("#cb171e"), icon: __icon("yaml.svg")), //Devicons
     yml:                  (name: "YAML",              color: rgb("#cb171e"), icon: __icon("yaml.svg")), //Devicons
