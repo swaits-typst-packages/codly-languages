@@ -402,6 +402,9 @@
     //Nix
     nix:                  (name: "Nix",               color: rgb("#5277c3"), icon: __icon("nixos.svg")), //Devicons
     nixos:                (name: "Nix",               color: rgb("#5277c3"), icon: __icon("nixos.svg")), //Devicons
+    //Nushell
+    nu:                   (name: "Nu",                color: rgb("#61962E"), icon: __icon("nushell.svg")), //VSCode Icons
+    nushell:              (name: "Nu",                color: rgb("#61962E"), icon: __icon("nushell.svg")), //VSCode Icons
     //Objective-C
     objective_c:          (name: "Objective-C",       color: rgb("#c2c2c2"), icon: __icon("objectivec.svg")), //VSCode Icons
     objc:                 (name: "Objective-C",       color: rgb("#c2c2c2"), icon: __icon("objectivec.svg")), //VSCode Icons
