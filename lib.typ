@@ -96,7 +96,7 @@
     shell_unix_generic:   (name: "Shell",             color: rgb("#293138"), icon: __icon("bash.svg")), //Devicons
     commands_bash:        (name: "Bash",              color: rgb("#2c3e50"), icon: __icon("bash.svg")), //Devicons
     //C
-    c:                    (name: "C",                 color: rgb("#03599c"), icon: __icon("c.svg")), //Devicons
+    c:                    (name: "C",                 color: rgb("#03599c"), icon: __icon("c.svg")), //Devicon
     h:                    (name: "C Header",          color: rgb("#005f91"), icon: __icon("cheader.svg")), //VSCode Icons
     //C#
     cs:                   (name: "C#",                color: rgb("#68217a"), icon: __icon("csharp.svg")), //Devicons
@@ -403,8 +403,8 @@
     nix:                  (name: "Nix",               color: rgb("#5277c3"), icon: __icon("nixos.svg")), //Devicons
     nixos:                (name: "Nix",               color: rgb("#5277c3"), icon: __icon("nixos.svg")), //Devicons
     //Nushell
-    nu:                   (name: "Nu",                color: rgb("#61962E"), icon: __icon("nushell.svg")), //VSCode Icons
-    nushell:              (name: "Nu",                color: rgb("#61962E"), icon: __icon("nushell.svg")), //VSCode Icons
+    nu:                   (name: "Nu",                color: rgb("#61962e"), icon: __icon("nushell.svg")), //VSCode Icons
+    nushell:              (name: "Nu",                color: rgb("#61962e"), icon: __icon("nushell.svg")), //VSCode Icons
     //Objective-C
     objective_c:          (name: "Objective-C",       color: rgb("#c2c2c2"), icon: __icon("objectivec.svg")), //VSCode Icons
     objc:                 (name: "Objective-C",       color: rgb("#c2c2c2"), icon: __icon("objectivec.svg")), //VSCode Icons
